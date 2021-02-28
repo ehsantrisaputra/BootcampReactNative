@@ -14,3 +14,4 @@ functtion readBooksPromise (time, book){
     })
 }
 
+module.exports = readBooksPromise
